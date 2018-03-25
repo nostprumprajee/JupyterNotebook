@@ -1,0 +1,11 @@
+Day,Province,Temperature,WindSpeed,Event
+1/1/2018,Kalasin,35,10,Sunny
+2/1/2018,Bangkok,30,10,Rain
+3/1/2018,Rayong,,,
+4/1/2018,Chonburi,5,20,Snow
+5/1/2018,Nan,12,20,Snow
+6/1/2018,Trat,,,
+7/1/2018,Pae,32,20,Rain
+8/1/2018,Chiang mai,33,30,Rain
+9/1/2018,Chanthaburi,4,50,Rain
+10/1/2018,Nost,56,60,Sunny
